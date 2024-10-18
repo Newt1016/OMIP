@@ -1,0 +1,14 @@
+map_id,org_id
+0,party
+1,exhibition
+2,others
+3,salon
+4,music
+5,travel
+6,drama
+7,sports
+8,commonweal
+9,film
+10,course
+11,competition
+12,kids
